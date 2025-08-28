@@ -47,16 +47,16 @@ Visualizações detalhadas do custo total por provedor de nuvem:
   ![Geral](docs/custo_total_por_provedor.png)
 
 - **AWS**
-  ![AWS](docs/custo_total_por_provedor_aws.png)
+  ![AWS](docs/custo_total_ por_ provedor_aws.png)
 
 - **Azure**
-  ![Azure](docs/custo_total_por_provedor_azure.png)
+  ![Azure](docs/custo_total_ por_ provedor_azure.png)
 
 - **GCP**
-  ![GCP](docs/custo_total_por_provedor_gcp.png)
+  ![GCP](docs/ccusto_total_ por_ provedor_gcp.png)
 
 - **Databricks**
-  ![Databricks](docs/custo_total_por_provedor_databricks.png)
+  ![Databricks](docs/custo_total_ por_ provedor_databricks.png)
 
 - **OpenIA**
   ![OpenIA](docs/custo_total_por_provedor_openia.png)
