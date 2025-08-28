@@ -80,13 +80,6 @@ Visualizações detalhadas do custo total por provedor de nuvem:
 
 ---
 
-## 📂 Estrutura do Projeto
-
-
-. ├── .venv/                         # Ambiente virtual do Python ├── data/ │   ├── processed/ │   └── raw/ ├── notebooks/                     # Notebooks com o desenvolvimento e testes ├── src/ │   ├── init.py                # Marca o diretório como pacote Python │   ├── chatbot_logic.py           # Lógica principal do chatbot │   └── cost_forecasting.py        # Módulo de previsão de custos ├── docs/                          # Imagens e gráficos gerados ├── .env                           # Variáveis de ambiente (ex: chave da API) ├── .gitignore                     # Arquivos ignorados pelo Git ├── app.py                         # Aplicação Streamlit ├── requirements.txt               # Lista de dependências └── README.md                      # Este arquivo
-
----
-
 ## ⚙️ Como Executar
 
 1. **Clone o repositório**
