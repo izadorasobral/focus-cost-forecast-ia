@@ -31,25 +31,40 @@ Criar um chatbot inteligente, apelidado de **FinOps Copilot**, que atua como um 
 
 ## 🖼️ Exemplos de Visualizações
 
-### Interface do Chatbot
+### 💬 Interface do Chatbot
 ![Chatbot FinOps](docs/chatbot_finops.jpg)
 
-### Previsão de Custos
+### 📈 Previsão de Custos
 ![Regressão Linear](docs/previsao_custo_regressao_linear.png)
 
-### Detecção de Anomalias
+### 🔍 Detecção de Anomalias
 ![Prophet](docs/detecao_anomalias_custo_prophet.png)
 
-### Custo Total por Provedor
-![Geral](docs/custo_total_por_provedor.png)  
-![AWS](docs/custo_total_por_provedor_aws.png)  
-![Azure](docs/custo_total_por_provedor_azure.png)  
-![GCP](docs/custo_total_por_provedor_gcp.png)  
-![Databricks](docs/custo_total_por_provedor_databricks.png)  
-![OpenIA](docs/custo_total_por_provedor_openia.png)  
-![Snowflake](docs/custo_total_por_provedor_snowflake.png)
+### 📊 Custo Total por Provedor
+Visualizações detalhadas do custo total por provedor de nuvem:
 
-### Por Serviço
+- **Geral**
+  ![Geral](docs/custo_total_por_provedor.png)
+
+- **AWS**
+  ![AWS](docs/custo_total_por_provedor_aws.png)
+
+- **Azure**
+  ![Azure](docs/custo_total_por_provedor_azure.png)
+
+- **GCP**
+  ![GCP](docs/custo_total_por_provedor_gcp.png)
+
+- **Databricks**
+  ![Databricks](docs/custo_total_por_provedor_databricks.png)
+
+- **OpenIA**
+  ![OpenIA](docs/custo_total_por_provedor_openia.png)
+
+- **Snowflake**
+  ![Snowflake](docs/custo_total_por_provedor_snowflake.png)
+
+### 🧮 Custo Total por Serviço
 ![Serviço](docs/custo_total_por_servico.png)
 
 ---
